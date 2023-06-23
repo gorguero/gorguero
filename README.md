@@ -1,6 +1,14 @@
-# 💫 About Me:
-Hello everybody! My name is Juan and welcome to my repository.<br>👨‍🎓 I´m Full Stack Jr Web Developer.<br>💻 Acutally I working with the following technologies:<br>HTML5, CSS3, JavaScript, Typescript, Node Js.<br>⚙️Git.<br>🛠️Frameworks: Bootstrap 5, Angular, Angular Material.<br>🧰 Database: Express, MongoDB.<br>👥Knowledge in agile methodologies (Scrum).
+### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+## I'm a Associate Software Engineer at Acentura
+
+- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
+- 📚 Learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-cruz-ag%C3%BCero/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18783597/gorg%c3%bcero) 
