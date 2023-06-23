@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Juan Cruz!](https://github.com/gorguero)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## I'm a Full Stack Jr Web Developer
 
