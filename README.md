@@ -1,12 +1,12 @@
-### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
+### Hi there 👋 I'm [Juan Cruz!](https://github.com/gorguero)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## I'm a Associate Software Engineer at Acentura
+## I'm a Full Stack Jr Web Developer
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
+- 👨‍💻 I am currently working on the development of an e-commerce for my thesis and others web projects with stack MEAN.
 - 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more about the MEAN stack and cloud server - Never stop creating new ideas.
 
 ---
 
