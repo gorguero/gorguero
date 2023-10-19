@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## I'm a Full Stack Jr Web Developer
+## I am an angular frontend developer
 
 - 👨‍💻 I am currently working as a frontend developer at <a href="https://incluit.com/">Incluit</a>.
 - 🌱 I am currently working on the development of an e-commerce for my thesis and others web projects with stack MEAN.
