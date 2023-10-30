@@ -4,7 +4,7 @@
 
 ## I am an angular frontend developer
 
-- 👨‍💻 I am currently working as a frontend developer at <a href="https://incluit.com/">Incluit</a>.
+- 👨‍💻 I am currently looking for a job.
 - 🌱 I am currently working on the development of an e-commerce for my thesis and others web projects with stack MEAN.
 - 📚 Learning everything about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more about the MEAN stack and cloud server - Never stop creating new ideas.
